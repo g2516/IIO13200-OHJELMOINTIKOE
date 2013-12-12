@@ -1,0 +1,11 @@
+User: Linus 
+Pass: SalaLinus
+
+User: Richard
+Pass: SalaRichard
+
+User: Monty
+Pass: SalaMonty
+
+User: Bjarne
+Pass: SalaBjarne

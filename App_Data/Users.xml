@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Users>
+  <User>
+    <UserID>0</UserID>
+    <Name>Linus</Name>
+    <UserName>4xdy4EkBcONn0ySVhEM2nA==</UserName>
+    <Password>o4l9wZ3vEPAOT4RRzXkhQw==</Password>
+  </User>
+  <User>
+    <UserID>1</UserID>
+    <Name>Richard</Name>
+    <UserName>z+lmEwAy+l+q/7Juasy49A==</UserName>
+    <Password>w0DA5b9wcHnywqpdNH1GyA==</Password>
+  </User>
+  <User>
+    <UserID>2</UserID>
+    <Name>Monty</Name>
+    <UserName>EFfv7AlUa5E0zwInrLx2lg==</UserName>
+    <Password>TqD16ROmuiSMo6qOKZAsJQ==</Password>
+  </User>
+  <User>
+    <UserID>3</UserID>
+    <Name>Bjarne</Name>
+    <UserName>QREhCEAkaum9iV4ejT/hBA==</UserName>
+    <Password>mJoShgD8RDuOPNeLzTW03w==</Password>
+  </User>
+</Users>
